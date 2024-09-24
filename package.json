@@ -1,0 +1,15 @@
+{
+  "name": "one-documentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/eddylau328/one-documentation.git",
+  "author": "Eddy <eddylau0328@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "local:bot-service": "yarn workspace @one-documentation/bot-service local dotenv_config_path=../../.env"
+  },
+  "workspaces": [
+    "apps/*"
+  ]
+}
