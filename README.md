@@ -58,8 +58,8 @@ The project is called Smart Garden Mini, and it is an automated plant care syste
 
 ## Requirements
 
-Node.js (version 20.17.0 or higher)
-npm (version 10.8.2 or higher)
+- Node.js (version 20.17.0 or higher)
+- npm (version 10.8.2 or higher)
 
 ## License
 
